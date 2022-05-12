@@ -1,3 +1,7 @@
+-- mysql -u root -p
+-- pwd : root
+-- source one_basic.sql
+
 -- SHOW DATABASES;
 -- SELECT DATABASE();
 -- CREATE DATABASE photo_store;
@@ -27,4 +31,4 @@
 
 -- SELECT * FROM canon_cameras WHERE model_name = "80D";
 
-SELECT * FROM canon_cameras WHERE quantity >= 50;
+-- SELECT * FROM canon_cameras WHERE quantity >= 50;
