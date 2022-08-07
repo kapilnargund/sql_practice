@@ -31,5 +31,5 @@
 
 -- SELECT REVERSE(email), CHAR_LENGTH(EMAIL) FROM students;
 
-SELECT UPPER(stu_fname), LOWER(stu_lname) FROM students;
+-- SELECT UPPER(stu_fname), LOWER(stu_lname) FROM students;
 
